@@ -2,7 +2,7 @@
 # FunilariaVM
 Projeto de banco de dados. Aplicação para gestão de um estabelecimento fictício.  Para sistemas Windows, Linux ou Mac
 
-<br />
+
 ![Print da Tela](https://github.com/tiagopagioro/FunilariaVM/blob/main/src/img/image.png)
 
 ## Autor
